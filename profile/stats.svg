@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" role="img" aria-label="GitHub stats card placeholder">
+  <rect width="495" height="195" fill="#0f1f14" />
+  <text x="24" y="88" fill="#9fdf9f" font-family="Verdana, Geneva, sans-serif" font-size="20">GitHub Stats</text>
+  <text x="24" y="120" fill="#8db58d" font-family="Verdana, Geneva, sans-serif" font-size="14">Run workflow &quot;Update README cards&quot; to refresh this card.</text>
+</svg>
