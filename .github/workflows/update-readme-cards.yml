@@ -22,6 +22,7 @@ jobs:
           options: username=${{ github.repository_owner }}&show_icons=true&theme=merko
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
 
       - name: Commit cards
         run: |
