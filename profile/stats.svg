@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Peter Dave Hello&#39;s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 2300, Total Commits  (last year) : 903, Total PRs: 4279, Total Issues: 1605, Contributed to (last year): 127</desc>
+        <desc id="descId">Total Stars Earned: 2300, Total Commits  (last year) : 903, Total PRs: 4283, Total Issues: 1605, Contributed to (last year): 127</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
