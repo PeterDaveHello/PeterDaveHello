@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Peter Dave Hello&#39;s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 2324, Total Commits  (last year) : 1152, Total PRs: 4686, Total Issues: 1606, Contributed to (last year): 114</desc>
+        <desc id="descId">Total Stars Earned: 2325, Total Commits  (last year) : 1161, Total PRs: 4695, Total Issues: 1606, Contributed to (last year): 114</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 3.5924139464644096;
+        stroke-dashoffset: 3.54933957909922;
       }
     }
   
